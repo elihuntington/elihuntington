@@ -1,4 +1,10 @@
-### Hi there 👋
+###  👋
+
+🔭 I'm currently working on building a Live Ops Tool using React/React Hooks
+⚡ I DJ and produce House and Electronic music in my spare time
+👯 Dad to two lovely little girls
+👯 Let's collaborate on Testing Libraries 
+💬 Ask me about my experience in the video gaming industry in Seattle
 
 <!--
 **elihuntington/elihuntington** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
